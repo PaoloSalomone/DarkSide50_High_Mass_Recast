@@ -1,5 +1,5 @@
 # DarkSide50 High Mass Analysis Recast
-_Valerio Ippolito - INFN Sezione di Roma_  
+_Valerio Ippolito - INFN Sezione di Roma_\
 _Paolo Salomone - INFN Sezione di Roma_
 
 ## Repository Contents
