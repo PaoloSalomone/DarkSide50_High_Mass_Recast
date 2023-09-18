@@ -29,3 +29,4 @@ pip install numericalunits
 ```
 git clone https://github.com/PaoloSalomone/DarkSide50_High_Mass_Recast.git
 ```
+5. Open the repository called "notebook" and run "high_mass_recast.ipynb"
