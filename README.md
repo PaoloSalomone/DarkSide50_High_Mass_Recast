@@ -1,4 +1,4 @@
-# DarkSide50_High_Mass_Recast
+# DarkSide50 High Mass Analysis Recast
 ## Repository Contents
 
 1. **high_mass_recast.ipynb**: This Jupyter notebook, located in the "notebook" subfolder, provides the necessary tools and instructions to reproduce the High mass analysis for the DarkSide-50 experiment.
