@@ -1,4 +1,7 @@
 # DarkSide50 High Mass Analysis Recast
+_Valerio Ippolito - INFN Sezione di Roma_
+_Paolo Salomone - INFN Sezione di Roma_
+
 ## Repository Contents
 
 1. **high_mass_recast.ipynb**: This Jupyter notebook, located in the "notebook" subfolder, provides the necessary tools and instructions to reproduce the High mass analysis for the DarkSide-50 experiment.
