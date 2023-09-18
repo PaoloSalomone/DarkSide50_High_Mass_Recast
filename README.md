@@ -14,3 +14,15 @@ Inside the "tools" subfolder, you will find the following three files:
 3. **wimp_toy.py**: This Python script provides a WIMP toy model for analysis.
 
 Feel free to explore the repository and utilize these tools for your DarkSide-50 experiment analysis.
+
+## Run the notebook
+1. Log in in the vre  https://jhub-vre.cern.ch/hub/
+2. Select the base image
+3. Open the terminal and install the missing module:
+```
+pip install numericalunits
+```
+4. Clone this repository repository:
+```
+git clone https://github.com/PaoloSalomone/DarkSide50_High_Mass_Recast.git
+```
