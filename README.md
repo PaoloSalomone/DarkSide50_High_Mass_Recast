@@ -7,7 +7,7 @@ Tools Folder:
 
 Inside the "tools" subfolder, you will find the following three files:
 
-Wimp_halo.py: This Python script contains functions and code related to the WIMP halo.
+1. **Wimp_halo.py**: This Python script contains functions and code related to the WIMP halo.
 
 wimp_rate.py: This Python script includes functions and code pertaining to WIMP event rate calculations.
 
