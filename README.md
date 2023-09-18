@@ -22,7 +22,7 @@ Feel free to explore the repository and utilize these tools for your DarkSide-50
 ```
 pip install numericalunits
 ```
-4. Clone this repository repository:
+4. Clone this repository on the VRE:
 ```
 git clone https://github.com/PaoloSalomone/DarkSide50_High_Mass_Recast.git
 ```
